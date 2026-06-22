@@ -8,10 +8,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0073-set-matrix-zeroes](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
 ## Hash Table
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
 ## Matrix
 |  |
 | ------- |
@@ -24,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0011-container-with-most-water) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
