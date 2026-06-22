@@ -10,11 +10,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0031-next-permutation) |
 | [0073-set-matrix-zeroes](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
+| [0229-majority-element-ii](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0229-majority-element-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
+| [0229-majority-element-ii](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0229-majority-element-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -32,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
+## Sorting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0229-majority-element-ii) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
