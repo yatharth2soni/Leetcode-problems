@@ -1,57 +1,40 @@
 class Solution {
 public:
     int firstMissingPositive(vector<int>& nums) {
-        sort(nums.begin(),nums.end());
-        int n=nums.size();
-        int count2=0;
+        //optimize solution//
 
-        for(int i=0;i<nums.size();i++){
+        int n=nums.size();
+        bool contains1=false;
+
+        for(int i=0;i<n;i++){
             if(nums[i]==1){
-                count2++;
+                contains1=true;
+            }
+
+            if(nums[i]<=0||nums[i]>n){//[1,n]->inme check karenge//
+                nums[i]=1;
             }
         }
 
-        if(count2==0){
+        if(!contains1){
             return 1;
         }
 
+        for(int i=0;i<n;i++){
+            int num=abs(nums[i]);
+            int index=num-1;
 
-        int count=0;
-        set<int>st;
-
-        for(int i=0;i<nums.size();i++){
-            st.insert(nums[i]);
-        }
-
-        auto it3=st.begin();
-        auto it4=st.begin();
-
-        it4++;
-        while(it4!=st.end()){
-            if(*it4-*it3!=1 && *it3+1!=0 && *it3>0 && *it4>0){
-                count++;
+            if(nums[index]<0){
+                continue;
             }
-            it4++;
-            it3++;
-        }
-        
-
-        if(count==0){
-            return nums[n-1]+1;
+            nums[index]=nums[index]*(-1);
         }
 
-        int element=INT_MAX;
-        auto it1=st.begin();
-        auto it2=st.begin();
-
-        it2++;
-        while(it2!=st.end()){
-            if(*it2-*it1!=1 && *it1+1!=0 && *it2>0 && *it1>0){
-                element=min(element,*it1+1);
+        for(int i=0;i<n;i++){
+            if(nums[i]>0){
+                return i+1;
             }
-            it1++;
-            it2++;
         }
-        return element;
+        return n+1;
     }
 };
