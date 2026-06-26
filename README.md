@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [2942-find-words-containing-character](https://github.com/yatharth2soni/Leetcode-problems/tree/master/2942-find-words-containing-character) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/yatharth2soni/Leetcode-problems/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/yatharth2soni/Leetcode-problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0229-majority-element-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/yatharth2soni/Leetcode-problems/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/yatharth2soni/Leetcode-problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/yatharth2soni/Leetcode-problems/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/yatharth2soni/Leetcode-problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Math
 |  |
 | ------- |
@@ -99,12 +102,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/yatharth2soni/Leetcode-problems/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/yatharth2soni/Leetcode-problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/yatharth2soni/Leetcode-problems/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/yatharth2soni/Leetcode-problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/yatharth2soni/Leetcode-problems/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/yatharth2soni/Leetcode-problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 <!---LeetCode Topics End-->
