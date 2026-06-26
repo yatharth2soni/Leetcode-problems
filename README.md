@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0881-boats-to-save-people](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0881-boats-to-save-people) |
 | [2942-find-words-containing-character](https://github.com/yatharth2soni/Leetcode-problems/tree/master/2942-find-words-containing-character) |
+| [3502-minimum-cost-to-reach-every-position](https://github.com/yatharth2soni/Leetcode-problems/tree/master/3502-minimum-cost-to-reach-every-position) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/yatharth2soni/Leetcode-problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/yatharth2soni/Leetcode-problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
