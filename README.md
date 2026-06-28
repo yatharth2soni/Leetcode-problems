@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0881-boats-to-save-people](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0881-boats-to-save-people) |
+| [0962-maximum-width-ramp](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0962-maximum-width-ramp) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/yatharth2soni/Leetcode-problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2942-find-words-containing-character](https://github.com/yatharth2soni/Leetcode-problems/tree/master/2942-find-words-containing-character) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/yatharth2soni/Leetcode-problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0881-boats-to-save-people](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0881-boats-to-save-people) |
+| [0962-maximum-width-ramp](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0962-maximum-width-ramp) |
 | [1768-merge-strings-alternately](https://github.com/yatharth2soni/Leetcode-problems/tree/master/1768-merge-strings-alternately) |
 ## Greedy
 |  |
@@ -142,4 +144,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/yatharth2soni/Leetcode-problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+## Stack
+|  |
+| ------- |
+| [0962-maximum-width-ramp](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0962-maximum-width-ramp) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0962-maximum-width-ramp](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0962-maximum-width-ramp) |
 <!---LeetCode Topics End-->
