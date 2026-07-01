@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0049-group-anagrams) |
+| [0686-repeated-string-match](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0686-repeated-string-match) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/yatharth2soni/Leetcode-problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1768-merge-strings-alternately](https://github.com/yatharth2soni/Leetcode-problems/tree/master/1768-merge-strings-alternately) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/yatharth2soni/Leetcode-problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -157,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0962-maximum-width-ramp](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0962-maximum-width-ramp) |
+## String Matching
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
