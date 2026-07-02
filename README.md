@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0258-add-digits) |
 | [0319-bulb-switcher](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0319-bulb-switcher) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/yatharth2soni/Leetcode-problems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [3492-maximum-containers-on-a-ship](https://github.com/yatharth2soni/Leetcode-problems/tree/master/3492-maximum-containers-on-a-ship) |
 ## Simulation
 |  |
