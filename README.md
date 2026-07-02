@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0013-roman-to-integer) |
+| [0231-power-of-two](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0258-add-digits) |
 | [0319-bulb-switcher](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0319-bulb-switcher) |
 | [3492-maximum-containers-on-a-ship](https://github.com/yatharth2soni/Leetcode-problems/tree/master/3492-maximum-containers-on-a-ship) |
@@ -173,4 +174,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
