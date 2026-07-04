@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0268-missing-number) |
 | [0881-boats-to-save-people](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0881-boats-to-save-people) |
+| [0948-bag-of-tokens](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0948-bag-of-tokens) |
 | [0962-maximum-width-ramp](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0962-maximum-width-ramp) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/yatharth2soni/Leetcode-problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/yatharth2soni/Leetcode-problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0881-boats-to-save-people](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0881-boats-to-save-people) |
+| [0948-bag-of-tokens](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0948-bag-of-tokens) |
 | [0962-maximum-width-ramp](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0962-maximum-width-ramp) |
 | [1768-merge-strings-alternately](https://github.com/yatharth2soni/Leetcode-problems/tree/master/1768-merge-strings-alternately) |
 ## Greedy
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0881-boats-to-save-people](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0881-boats-to-save-people) |
+| [0948-bag-of-tokens](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0948-bag-of-tokens) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/yatharth2soni/Leetcode-problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Union-Find
 |  |
@@ -84,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0268-missing-number) |
 | [0881-boats-to-save-people](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0881-boats-to-save-people) |
+| [0948-bag-of-tokens](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0948-bag-of-tokens) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/yatharth2soni/Leetcode-problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Counting
 |  |
