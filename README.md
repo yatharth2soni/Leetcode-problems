@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0268-missing-number) |
+| [0424-longest-repeating-character-replacement](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/yatharth2soni/Leetcode-problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/yatharth2soni/Leetcode-problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/yatharth2soni/Leetcode-problems/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0049-group-anagrams) |
+| [0424-longest-repeating-character-replacement](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0686-repeated-string-match](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0686-repeated-string-match) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/yatharth2soni/Leetcode-problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1768-merge-strings-alternately](https://github.com/yatharth2soni/Leetcode-problems/tree/master/1768-merge-strings-alternately) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/yatharth2soni/Leetcode-problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Enumeration
 |  |
