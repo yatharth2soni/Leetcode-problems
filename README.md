@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0283-move-zeroes) |
 | [0881-boats-to-save-people](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0948-bag-of-tokens) |
 | [0962-maximum-width-ramp](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0962-maximum-width-ramp) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0283-move-zeroes) |
 | [0881-boats-to-save-people](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0948-bag-of-tokens) |
 | [0962-maximum-width-ramp](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0962-maximum-width-ramp) |
