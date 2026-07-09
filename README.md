@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0053-maximum-subarray) |
+| [0190-reverse-bits](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0191-number-of-1-bits) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/yatharth2soni/Leetcode-problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/yatharth2soni/Leetcode-problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0260-single-number-iii) |
