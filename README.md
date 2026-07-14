@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0371-sum-of-two-integers) |
 | [0461-hamming-distance](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0461-hamming-distance) |
+| [0476-number-complement](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0476-number-complement) |
 | [0693-binary-number-with-alternating-bits](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0693-binary-number-with-alternating-bits) |
 ## Recursion
 |  |
