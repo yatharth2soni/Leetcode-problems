@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0877-stone-game](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0948-bag-of-tokens) |
 | [0962-maximum-width-ramp](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0962-maximum-width-ramp) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0319-bulb-switcher) |
 | [0342-power-of-four](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0371-sum-of-two-integers) |
+| [0877-stone-game](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0877-stone-game) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/yatharth2soni/Leetcode-problems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yatharth2soni/Leetcode-problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/yatharth2soni/Leetcode-problems/tree/master/3222-find-the-winning-player-in-coin-game) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0338-counting-bits](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0338-counting-bits) |
+| [0877-stone-game](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0877-stone-game) |
 ## String
 |  |
 | ------- |
@@ -268,5 +271,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0877-stone-game) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/yatharth2soni/Leetcode-problems/tree/master/3222-find-the-winning-player-in-coin-game) |
 <!---LeetCode Topics End-->
