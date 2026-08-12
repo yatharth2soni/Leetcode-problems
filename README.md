@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0078-subsets) |
+| [0084-largest-rectangle-in-histogram](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -240,11 +241,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0962-maximum-width-ramp](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0962-maximum-width-ramp) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0962-maximum-width-ramp](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0962-maximum-width-ramp) |
 ## String Matching
@@ -295,4 +298,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0416-partition-equal-subset-sum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
