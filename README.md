@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0064-minimum-path-sum) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0283-move-zeroes) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0070-climbing-stairs) |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0496-next-greater-element-i) |
@@ -251,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0496-next-greater-element-i) |
