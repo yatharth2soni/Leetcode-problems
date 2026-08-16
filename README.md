@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0224-basic-calculator](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0268-missing-number) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0049-group-anagrams) |
+| [0224-basic-calculator](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0224-basic-calculator) |
 | [0424-longest-repeating-character-replacement](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0686-repeated-string-match](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0686-repeated-string-match) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/yatharth2soni/Leetcode-problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0224-basic-calculator) |
 | [0496-next-greater-element-i](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0735-asteroid-collision) |
@@ -304,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0342-power-of-four) |
 ## Memoization
