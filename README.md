@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0881-boats-to-save-people) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0735-asteroid-collision) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/yatharth2soni/Leetcode-problems/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/yatharth2soni/Leetcode-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0901-online-stock-span) |
 | [0962-maximum-width-ramp](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0962-maximum-width-ramp) |
