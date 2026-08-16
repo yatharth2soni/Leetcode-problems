@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0901-online-stock-span) |
 | [0962-maximum-width-ramp](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0962-maximum-width-ramp) |
 ## Monotonic Stack
 |  |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0901-online-stock-span) |
 | [0962-maximum-width-ramp](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0962-maximum-width-ramp) |
 ## String Matching
 |  |
@@ -328,8 +330,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0155-min-stack) |
+| [0901-online-stock-span](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0901-online-stock-span) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0020-valid-parentheses) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
