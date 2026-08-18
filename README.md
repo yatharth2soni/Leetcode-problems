@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/yatharth2soni/Leetcode-problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/yatharth2soni/Leetcode-problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/yatharth2soni/Leetcode-problems/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [2239-find-closest-number-to-zero](https://github.com/yatharth2soni/Leetcode-problems/tree/master/2239-find-closest-number-to-zero) |
 | [2404-most-frequent-even-element](https://github.com/yatharth2soni/Leetcode-problems/tree/master/2404-most-frequent-even-element) |
 | [2942-find-words-containing-character](https://github.com/yatharth2soni/Leetcode-problems/tree/master/2942-find-words-containing-character) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yatharth2soni/Leetcode-problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
