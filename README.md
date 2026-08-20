@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0739-daily-temperatures) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0853-car-fleet](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0853-car-fleet) |
 | [0877-stone-game](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0881-boats-to-save-people) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0268-missing-number) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Prefix Sum
 |  |
 | ------- |
