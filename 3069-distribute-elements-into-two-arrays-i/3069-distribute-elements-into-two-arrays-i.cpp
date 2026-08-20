@@ -17,7 +17,9 @@ public:
             }
        }
         
-       a.insert(a.end(),b.begin(),b.end());
+       for(int i=0;i<b.size();i++){
+        a.push_back(b[i]);
+       }
        return a;
     }
 };
