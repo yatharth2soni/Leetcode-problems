@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0085-maximal-rectangle) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0036-valid-sudoku) |
 | [0064-minimum-path-sum](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0085-maximal-rectangle) |
 ## Two Pointers
 |  |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
