@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/yatharth2soni/Leetcode-problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/yatharth2soni/Leetcode-problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3238-find-the-number-of-winning-players](https://github.com/yatharth2soni/Leetcode-problems/tree/master/3238-find-the-number-of-winning-players) |
+| [3285-find-indices-of-stable-mountains](https://github.com/yatharth2soni/Leetcode-problems/tree/master/3285-find-indices-of-stable-mountains) |
 | [3502-minimum-cost-to-reach-every-position](https://github.com/yatharth2soni/Leetcode-problems/tree/master/3502-minimum-cost-to-reach-every-position) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/yatharth2soni/Leetcode-problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/yatharth2soni/Leetcode-problems/tree/master/3731-find-missing-elements) |
