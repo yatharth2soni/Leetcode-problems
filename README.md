@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0234-palindrome-linked-list](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0283-move-zeroes) |
 | [0881-boats-to-save-people](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0948-bag-of-tokens) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0224-basic-calculator) |
+| [0234-palindrome-linked-list](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0735-asteroid-collision) |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0224-basic-calculator](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0342-power-of-four) |
 ## Memoization
 |  |
@@ -436,4 +439,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0069-sqrtx) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
