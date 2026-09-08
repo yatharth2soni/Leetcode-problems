@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0074-search-a-2d-matrix) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0410-split-array-largest-sum](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0410-split-array-largest-sum) |
 | [0881-boats-to-save-people](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0881-boats-to-save-people) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0085-maximal-rectangle) |
