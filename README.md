@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0948-bag-of-tokens) |
 | [0962-maximum-width-ramp](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0962-maximum-width-ramp) |
 | [0977-squares-of-a-sorted-array](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
+| [0989-add-to-array-form-of-integer](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0989-add-to-array-form-of-integer) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yatharth2soni/Leetcode-problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1200-minimum-absolute-difference](https://github.com/yatharth2soni/Leetcode-problems/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/yatharth2soni/Leetcode-problems/tree/master/1288-remove-covered-intervals) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0371-sum-of-two-integers) |
 | [0877-stone-game](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0877-stone-game) |
+| [0989-add-to-array-form-of-integer](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0989-add-to-array-form-of-integer) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/yatharth2soni/Leetcode-problems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yatharth2soni/Leetcode-problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/yatharth2soni/Leetcode-problems/tree/master/3222-find-the-winning-player-in-coin-game) |
