@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3238-find-the-number-of-winning-players](https://github.com/yatharth2soni/Leetcode-problems/tree/master/3238-find-the-number-of-winning-players) |
 | [3285-find-indices-of-stable-mountains](https://github.com/yatharth2soni/Leetcode-problems/tree/master/3285-find-indices-of-stable-mountains) |
 | [3502-minimum-cost-to-reach-every-position](https://github.com/yatharth2soni/Leetcode-problems/tree/master/3502-minimum-cost-to-reach-every-position) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/yatharth2soni/Leetcode-problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/yatharth2soni/Leetcode-problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/yatharth2soni/Leetcode-problems/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/yatharth2soni/Leetcode-problems/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3222-find-the-winning-player-in-coin-game](https://github.com/yatharth2soni/Leetcode-problems/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/yatharth2soni/Leetcode-problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3492-maximum-containers-on-a-ship](https://github.com/yatharth2soni/Leetcode-problems/tree/master/3492-maximum-containers-on-a-ship) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/yatharth2soni/Leetcode-problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/yatharth2soni/Leetcode-problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/yatharth2soni/Leetcode-problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/yatharth2soni/Leetcode-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
