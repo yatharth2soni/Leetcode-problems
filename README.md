@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0319-bulb-switcher) |
 | [0342-power-of-four](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0371-sum-of-two-integers) |
+| [0415-add-strings](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0415-add-strings) |
 | [0877-stone-game](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0877-stone-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0989-add-to-array-form-of-integer) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/yatharth2soni/Leetcode-problems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0735-asteroid-collision) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/yatharth2soni/Leetcode-problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0049-group-anagrams) |
 | [0224-basic-calculator](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0224-basic-calculator) |
+| [0415-add-strings](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0686-repeated-string-match](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0686-repeated-string-match) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/yatharth2soni/Leetcode-problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
