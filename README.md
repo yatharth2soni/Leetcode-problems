@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2016-maximum-difference-between-increasing-elements](https://github.com/yatharth2soni/Leetcode-problems/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2239-find-closest-number-to-zero](https://github.com/yatharth2soni/Leetcode-problems/tree/master/2239-find-closest-number-to-zero) |
 | [2404-most-frequent-even-element](https://github.com/yatharth2soni/Leetcode-problems/tree/master/2404-most-frequent-even-element) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/yatharth2soni/Leetcode-problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2942-find-words-containing-character](https://github.com/yatharth2soni/Leetcode-problems/tree/master/2942-find-words-containing-character) |
 | [2951-find-the-peaks](https://github.com/yatharth2soni/Leetcode-problems/tree/master/2951-find-the-peaks) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yatharth2soni/Leetcode-problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/yatharth2soni/Leetcode-problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/yatharth2soni/Leetcode-problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2404-most-frequent-even-element](https://github.com/yatharth2soni/Leetcode-problems/tree/master/2404-most-frequent-even-element) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/yatharth2soni/Leetcode-problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yatharth2soni/Leetcode-problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yatharth2soni/Leetcode-problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/yatharth2soni/Leetcode-problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/yatharth2soni/Leetcode-problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/yatharth2soni/Leetcode-problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/yatharth2soni/Leetcode-problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
@@ -493,4 +496,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/yatharth2soni/Leetcode-problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
