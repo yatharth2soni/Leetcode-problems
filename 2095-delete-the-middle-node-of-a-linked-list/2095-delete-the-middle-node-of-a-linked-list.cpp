@@ -29,7 +29,7 @@ public:
             cnt++;
         }
         prev->next=slow->next;
-        //free(slow);
+        delete slow;
         return head;
     }
 };
