@@ -11,11 +11,11 @@ public:
         if(sum%2!=0){
             return false;
         }
-
-        int dp[n+1][sum+1];
+        int target=sum/2;
+        int dp[n+1][target+1];
 
         for(int i=0;i<n+1;i++){
-            for(int j=0;j<sum+1;j++){
+            for(int j=0;j<target+1;j++){
                 if(i==0){
                     dp[i][j]=false;
                 }
@@ -27,7 +27,7 @@ public:
 
 
         for(int i=1;i<n+1;i++){
-            for(int j=0;j<sum+1;j++){
+            for(int j=0;j<target+1;j++){
                 if(nums[i-1]<=j){
                     dp[i][j]=dp[i-1][j-nums[i-1]]||dp[i-1][j];
                 }
@@ -37,6 +37,6 @@ public:
             }
         }
 
-        return dp[n][sum/2];
+        return dp[n][target];
     }
 };
