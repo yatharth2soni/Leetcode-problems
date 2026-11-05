@@ -37,11 +37,6 @@ public:
             }
         }
 
-        for(int i=0;i<n+1;i++){
-            if(dp[i][sum/2]){
-                return true;
-            }
-        }
-        return false;
+        return dp[n][sum/2];
     }
 };
