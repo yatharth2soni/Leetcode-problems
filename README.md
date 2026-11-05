@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0494-target-sum](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0704-binary-search) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0494-target-sum) |
 | [0877-stone-game](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0907-sum-of-subarray-minimums) |
 ## String
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0078-subsets) |
+| [0494-target-sum](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0494-target-sum) |
 ## Game Theory
 |  |
 | ------- |
@@ -446,10 +449,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0494-target-sum) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
