@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0583-delete-operation-for-two-strings) |
 | [0877-stone-game](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0877-stone-game) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0224-basic-calculator) |
 | [0415-add-strings](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0424-longest-repeating-character-replacement) |
+| [0516-longest-palindromic-subsequence](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0583-delete-operation-for-two-strings) |
 | [0686-repeated-string-match](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0686-repeated-string-match) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/yatharth2soni/Leetcode-problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
