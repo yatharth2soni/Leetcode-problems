@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0414-third-maximum-number) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0322-coin-change](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0416-partition-equal-subset-sum) |
@@ -448,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
@@ -525,4 +528,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/yatharth2soni/Leetcode-problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
