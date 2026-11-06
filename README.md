@@ -311,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0518-coin-change-ii) |
 | [0877-stone-game](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0907-sum-of-subarray-minimums) |
+| [1143-longest-common-subsequence](https://github.com/yatharth2soni/Leetcode-problems/tree/master/1143-longest-common-subsequence) |
 ## String
 |  |
 | ------- |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0686-repeated-string-match](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0686-repeated-string-match) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/yatharth2soni/Leetcode-problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1143-longest-common-subsequence](https://github.com/yatharth2soni/Leetcode-problems/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/yatharth2soni/Leetcode-problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1768-merge-strings-alternately](https://github.com/yatharth2soni/Leetcode-problems/tree/master/1768-merge-strings-alternately) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/yatharth2soni/Leetcode-problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -540,4 +542,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/yatharth2soni/Leetcode-problems/tree/master/0518-coin-change-ii) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/yatharth2soni/Leetcode-problems/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
